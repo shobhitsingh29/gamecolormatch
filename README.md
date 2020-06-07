@@ -1,4 +1,4 @@
-# gamecolormatch
+# game colormatch
 
 demo
 https://shobhitsingh29.github.io/gamecolormatch/
